@@ -1,5 +1,5 @@
 # instagram
-instagram
+
 Batch image processing for instagram
 Using pillow and os libraries write a code which:
 applies b/w filter and crops to 1080*1080 size all images in img folder
